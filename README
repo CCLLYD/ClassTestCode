@@ -1,1 +1,7 @@
 This is the test code for the course.
+
+2023_12_5.c  
+Why do strange numbers appear in the running results?
+
+Because the bounds were crossed when accessing the array,and other places were modified
+when the bounds were crossed , so strange numbers appeared.
